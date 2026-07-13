@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://villamurvica.com/sitemap.xml
+Sitemap: https://www.villabila-bol.com/sitemap.xml
