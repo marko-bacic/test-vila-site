@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.villabila-bol.com/sitemap.xml
+Sitemap: https://villabila-bol.com/sitemap.xml
